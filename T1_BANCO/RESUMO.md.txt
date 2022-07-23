@@ -1,0 +1,21 @@
+Trabalho de programação orientada a dados
+
+Durante o trabalho foi feito um programa que simularia uma conta bancária com diferentes 
+tipos de aplicação, sendo elas a conta de investimento, conta corrente ou conta poupança. 
+A primeira parte foi desenvolver os códigos das contas propriamente ditas, essa foi a parte mais 
+fácil do trabalho, não apresentando grandes problemas para ser concluída. O único problema foi a falta de
+pratica com programação orientada a dados, que gerou confusão durante a criação  execução, principalmente
+com o setter e o getter.
+A segunda parte foi a aplicação de métodos especiais, como o saque verboso e o status_conta, sua 
+implementação consistiu em chamar diferentes partes feitas anteriormente em uma única função, logo 
+não foi muito desafiador.
+Como terceira parte, foram incluídos os tratamentos de erros, que evitariam que o programa parasse durante
+uma aplicação. Esta parte foi também facil de implementar mas a orientação a objetos deixou mais dificil
+do que o esperado
+A última parte foi a de implementar a manipulação de arquivos, esta parte se mostrou como sendo 
+bem difícil e pouco clara, no sentido que não possuía a experiencia com esse tipo de operação.
+Concluindo, o trabalho como um todo foi concluido com certa dificuldade,principalmente alguns trechos 
+que se mostraram mais difíceis do que o esperado, exigindo algum tempo para que fosse encontrada uma 
+solução, considero que o trabalho foi bem agregador, apesar de dificil e demorado para concluir ele deu
+uma boa visão do que é preciso saber para um programa com orientação à objetos.
+
